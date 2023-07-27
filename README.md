@@ -1,2 +1,2 @@
 # Book-Store
-MERN App of a library to add, update and delete books using CRUD
+MERN App of a library to add, update and delete books using CRUD function.
